@@ -1,5 +1,5 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+title: Caltech Ph 220 - Quantum Learning Theory
+description: Course website for Ph 220, Fall 2025.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
