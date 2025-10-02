@@ -4,11 +4,11 @@ layout: default
 
 # Ph 220: Quantum Learning Theory (Fall 2025)
 
-**Class meetings:** Monday & Wednesday, 1:00pm–2:20pm in 387 Linde Hall.
+Monday & Wednesday, 1:00pm–2:20pm in Hameetman Auditorium, Cahill Center for Astronomy and Astrophysics.
 
 ---
 
-## Overview 📖
+## Overview
 
 This course covers quantum learning theory, a contemporary field at the intersection of quantum mechanics, quantum computing, statistical learning theory, and machine learning. The fundamental questions explored include: how to efficiently learn quantum many-body systems? When can quantum machines learn and predict better than classical machines? What physical phenomena can quantum machines learn and discover? The course aims to develop rigorous theoretical foundations for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena in our quantum-mechanical universe.
 
@@ -16,21 +16,21 @@ This course covers quantum learning theory, a contemporary field at the intersec
 
 ---
 
-## Instructor & TAs 🧑‍🏫
+## Instructor & TAs
 
 #### Instructor
 * **Hsin-Yuan (Robert) Huang**
 * **Email:** `hsinyuan@caltech.edu`
-* **Office hours:** Monday 2:20pm–2:50pm & Wednesday 12:30pm–1:00pm
+* **Office hours:** Monday 2:20pm-2:50pm & Wednesday 12:30pm–1:00pm
 
 #### Teaching Assistant
 * **Haimeng Zhao**
 * **Email:** `haimeng@caltech.edu`
-* **Office hours:** Wednesdays 4:00pm–5:00pm in East Bridge 307 (on weeks when homework is due), or by appointment.
+* **Office hours:** Wednesdays 4:00pm-5:00pm in East Bridge 307 (on weeks when homework is due), or by appointment.
 
 ---
 
-## Topics Covered 📚
+## Topics Covered
 
 * From sensing to learning (sensing magnetic field, Heisenberg limit, standard quantum limit)
 * Review of quantum many-body physics (local Hamiltonians, ground states, Gibbs states, tensor network)
@@ -44,7 +44,7 @@ This course covers quantum learning theory, a contemporary field at the intersec
 
 ---
 
-## Grading & Homework Policy 📝
+## Grading & Homework Policy
 
 This course can be taken **pass/fail** or for a **letter grade**. A passing grade requires a final score of at least 60%.
 
@@ -65,7 +65,7 @@ There will be **five problem sets** posted every two weeks. The grade will be ba
 
 ---
 
-## Collaboration & Academic Integrity ✅
+## Collaboration & Academic Integrity
 
 * Discussing course materials and homework problems with others is encouraged. However, **you must write up your solutions on your own**.
 * Do not share complete solutions. Please acknowledge your collaborators and give proper credit to others whose ideas you are using.
