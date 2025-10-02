@@ -2,122 +2,71 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Ph 220: Quantum Learning Theory (Fall 2025)
 
-[Link to another page](./another-page.html).
+**Class meetings:** Monday & Wednesday, 1:00pm–2:20pm in 387 Linde Hall.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Overview 📖
 
-# Header 1
+This course covers quantum learning theory, a contemporary field at the intersection of quantum mechanics, quantum computing, statistical learning theory, and machine learning. The fundamental questions explored include: how to efficiently learn quantum many-body systems? When can quantum machines learn and predict better than classical machines? What physical phenomena can quantum machines learn and discover? The course aims to develop rigorous theoretical foundations for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena in our quantum-mechanical universe.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Prerequisites:** Ph 125 ab or equivalent.
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Instructor & TAs 🧑‍🏫
 
-### Header 3
+#### Instructor
+* **Hsin-Yuan (Robert) Huang**
+* **Email:** `hsinyuan@caltech.edu`
+* **Office hours:** Monday 2:20pm–2:50pm & Wednesday 12:30pm–1:00pm
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### Teaching Assistant
+* **Haimeng Zhao**
+* **Email:** `haimeng@caltech.edu`
+* **Office hours:** Wednesdays 4:00pm–5:00pm in East Bridge 307 (on weeks when homework is due), or by appointment.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## Topics Covered 📚
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* From sensing to learning (sensing magnetic field, Heisenberg limit, standard quantum limit)
+* Review of quantum many-body physics (local Hamiltonians, ground states, Gibbs states, tensor network)
+* Random unitaries (t-designs, Weingarten calculus, path-recording oracle)
+* Learning the description of a quantum state (randomized measurements, pretty good measurements, sample-optimal tomography)
+* Predicting properties of a quantum state (classical shadow, matrix multiplicative weight, online learning, quantum threshold search)
+* Learning special families of states (short-range entangled states, stabilizer states, Gibbs states)
+* Hardness of learning (pseudorandom states, pseudorandom unitaries, hardness of classifying phases of matter)
+* Quantum advantage in learning (learning tree formalism, lower bounds, predicting properties, quantum PCA)
+* Quantum neural networks (barren plateau, efficient learning, generative quantum advantage)
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Grading & Homework Policy 📝
 
-###### Header 6
+This course can be taken **pass/fail** or for a **letter grade**. A passing grade requires a final score of at least 60%.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+There will be **five problem sets** posted every two weeks. The grade will be based on the correctness, completeness, and clarity of your proofs.
 
-### There's a horizontal rule below this.
+#### Homework Due Dates (Tentative):
+1.  **HW 1:** Friday, October 17th
+2.  **HW 2:** Friday, October 31st
+3.  **HW 3:** Friday, November 14th
+4.  **HW 4:** Friday, November 28th
+5.  **HW 5:** Friday, December 12th
 
-* * *
+#### Submission & Extension Policy:
+* Please submit your homework in **PDF format**. You can use LaTeX or scan handwritten solutions.
+* You have **two automatic 4-day extensions** for the term. Please indicate on the first page of your solution if you are using an extension.
+* Additional extensions may be granted for legitimate reasons; please ask the TA in advance.
+* There is a **25% penalty** for missing a deadline without an extension. Late homework is generally accepted up to one week after the original due date.
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Collaboration & Academic Integrity ✅
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* Discussing course materials and homework problems with others is encouraged. However, **you must write up your solutions on your own**.
+* Do not share complete solutions. Please acknowledge your collaborators and give proper credit to others whose ideas you are using.
+* Large Language Models (LLMs) can be used to learn material or fill in background knowledge. **Do not copy homework solutions generated by LLMs.** The proofs produced by LLMs are often incorrect, incomplete, or tautological.
