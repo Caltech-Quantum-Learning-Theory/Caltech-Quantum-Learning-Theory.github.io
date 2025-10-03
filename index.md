@@ -50,28 +50,26 @@ This course covers quantum learning theory, a contemporary field at the intersec
 * **Summary:** We introduced the fundamental problem of sensing a magnetic field with a spin sensor, which serves as a simple model for understanding the core principles of quantum learning.
 * **Lecture Notes:** [Digitized Notes: From Quantum Sensing to Learning](./materials/From_Quantum_Sensing_to_Learning.pdf)
 * **Reading & Resources:**
-    * **Background Reading:** To begin, please read the [Preface](./materials/Preface.pdf) and [Ch. 1: Sneak Peek](./materials/Chapter-SneakPeek.pdf). For a refresher on quantum mechanics, review [Ch. 2: Quantum Mechanics](./materials/Chapter-QuantumMechanics.pdf).
-    * **Concentration Inequalities:** A good starting point is [Markov's inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality), which leads to more powerful tools like [Hoeffding's inequality](https://en.wikipedia.org/wiki/Hoeffding%27s_inequality).
-    * **Inequalities Cheat Sheet:** A useful reference for inequalities can be found [here](https://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf).
-    * **Improved Sensing Analysis:** The sensing time can be tightened. A more detailed analysis using "Robust Phase Estimation" is in Section V of [this paper](https://arxiv.org/pdf/1502.02677).
+    - **Background Reading:** To begin, please read the [Preface](./materials/Preface.pdf) and [Ch. 1: Sneak Peek](./materials/Chapter-SneakPeek.pdf). For a refresher on quantum mechanics, review [Ch. 2: Quantum Mechanics](./materials/Chapter-QuantumMechanics.pdf).
+    - **Concentration Inequalities:** A good starting point is [Markov's inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality), which leads to more powerful tools like [Hoeffding's inequality](https://en.wikipedia.org/wiki/Hoeffding%27s_inequality).
+    - **Inequalities Cheat Sheet:** A useful reference for inequalities can be found [here](https://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf).
+    - **Improved Sensing Analysis:** The sensing time can be tightened. A more detailed analysis using "Robust Phase Estimation" is in Section V of [this paper](https://arxiv.org/pdf/1502.02677).
 
 #### **Lecture 2: Sensing Lower Bounds & Quantum Many-Body Physics (Wed, Oct 1)**
 * **Summary:** We established a lower bound on sensing time, concluding our analysis of the magnetic field problem. We then reviewed quantum many-body physics from a quantum information perspective, covering local Hamiltonians, ground states, and tensor networks.
 * **Lecture Notes:** [Digitized Notes: From Quantum Sensing to Learning](./materials/From_Quantum_Sensing_to_Learning.pdf)
 * **Reading & Resources:**
-    * **Tensor Networks:** To understand the basic definitions and notation of tensor networks, read [Ch. 3: Tensor Networks](./materials/Chapter-TensorNetwork.pdf).
-    * **Tensor Decomposition:** To see how a single tensor can be decomposed via SVD, review the [Bonus Lecture: Tensor Networks & SVD](./materials/BonusLecture-SVDandTN.pdf).
-    * **Practice Problems:**
+    - **Tensor Networks:** To understand the basic definitions and notation of tensor networks, read [Ch. 3: Tensor Networks](./materials/Chapter-TensorNetwork.pdf).
+    - **Tensor Decomposition:** To see how a single tensor can be decomposed via SVD, review the [Bonus Lecture: Tensor Networks & SVD](./materials/BonusLecture-SVDandTN.pdf).
+    - **Exercises:**
         1.  Prove that any 1D short-range entangled state can be represented as a Matrix Product State (MPS).
         2.  Prove that simulating a Z-basis measurement on an MPS with a polynomial bond dimension is classically efficient.
 
 ---
 
-## Grading & Homework Policy
+## Homeworks
 
-This course can be taken **pass/fail** or for a **letter grade**. A passing grade requires a final score of at least 60%.
-
-There will be **five problem sets** posted every two weeks. The grade will be based on the correctness, completeness, and clarity of your proofs.
+There will be **five problem sets** for this course. The grade will be based on the correctness, completeness, and clarity of your proofs.
 
 #### Homework Due Dates:
 1.  **HW 1:** Friday, October 17th
@@ -79,17 +77,3 @@ There will be **five problem sets** posted every two weeks. The grade will be ba
 3.  **HW 3:** Friday, November 14th
 4.  **HW 4:** Friday, November 28th
 5.  **HW 5:** Friday, December 12th
-
-#### Submission & Extension Policy:
-* Please submit your homework in **PDF format**. You can use LaTeX or scan handwritten solutions.
-* You have **two automatic 4-day extensions** for the term. Please indicate on the first page of your solution if you are using an extension.
-* Additional extensions may be granted for legitimate reasons; please ask the TA in advance.
-* There is a **25% penalty** for missing a deadline without an extension. Late homework is generally accepted up to one week after the original due date.
-
----
-
-## Collaboration & Academic Integrity
-
-* Discussing course materials and homework problems with others is encouraged. However, **you must write up your solutions on your own**.
-* Do not share complete solutions. Please acknowledge your collaborators and give proper credit to others whose ideas you are using.
-* Large Language Models (LLMs) can be used to learn material or fill in background knowledge. **Do not copy homework solutions generated by LLMs.** The proofs produced by LLMs are often incorrect, incomplete, or tautological.
