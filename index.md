@@ -72,7 +72,7 @@ This course covers quantum learning theory, a contemporary field at the intersec
 There will be **five problem sets** for this course. The grade will be based on the correctness, completeness, and clarity of your proofs.
 
 #### Homework Due Dates:
-1.  **HW 1:** Friday, October 17th
+1.  **[HW 1](./materials/PSET_1_Caltech_Ph_220.pdf):** Friday, October 17th
 2.  **HW 2:** Friday, October 31st
 3.  **HW 3:** Friday, November 14th
 4.  **HW 4:** Friday, November 28th
