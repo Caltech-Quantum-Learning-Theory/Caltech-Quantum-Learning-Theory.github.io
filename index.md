@@ -48,7 +48,7 @@ This course covers quantum learning theory, a contemporary field at the intersec
 
 #### **Lecture 1: Introduction to Sensing & Learning (Mon, Sep 29)**
 * **Summary:** We introduced the fundamental problem of sensing a magnetic field with a spin sensor, which serves as a simple model for understanding the core principles of quantum learning.
-* **Lecture Notes:** [Digitized Notes: From Quantum Sensing to Learning](./materials/From_Quantum_Sensing_to_Learning.pdf)
+* **Lecture Notes:** [Digitized Notes: From Quantum Sensing to Learning](./materials/Note_From_Quantum_Sensing_to_Learning.pdf)
 * **Reading & Resources:**
     - **Background Reading:** To begin, please read the [Preface](./materials/Preface.pdf) and [Ch. 1: Sneak Peek](./materials/Chapter-SneakPeek.pdf). For a refresher on quantum mechanics, review [Ch. 2: Quantum Mechanics](./materials/Chapter-QuantumMechanics.pdf).
     - **Concentration Inequalities:** A good starting point is [Markov's inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality), which leads to more powerful tools like [Hoeffding's inequality](https://en.wikipedia.org/wiki/Hoeffding%27s_inequality).
@@ -60,10 +60,19 @@ This course covers quantum learning theory, a contemporary field at the intersec
 * **Lecture Notes:** [Digitized Notes: From Quantum Sensing to Learning](./materials/From_Quantum_Sensing_to_Learning.pdf)
 * **Reading & Resources:**
     - **Tensor Networks:** To understand the basic definitions and notation of tensor networks, read [Ch. 3: Tensor Networks](./materials/Chapter-TensorNetwork.pdf).
-    - **Tensor Decomposition:** To see how a single tensor can be decomposed via SVD, review the [Bonus Lecture: Tensor Networks & SVD](./materials/BonusLecture-SVDandTN.pdf).
+    - **Tensor Decomposition:** To see how a single tensor can be decomposed via SVD, review the [Bonus Note: Tensor Networks & SVD](./materials/BonusLecture-SVDandTN.pdf).
     - **Exercises:**
         1.  Prove that any 1D short-range entangled state can be represented as a Matrix Product State (MPS).
         2.  Prove that simulating a Z-basis measurement on an MPS with a polynomial bond dimension is classically efficient.
+
+
+### **Week 2**
+
+#### **Lecture 3: 1D Simulation & Quantum Complexity Classes (Mon, Oct 6)**
+* **Summary:** We finished the classical simulation for sampling from 1D short-range entangled states and 1D shallow quantum neural networks using their Matrix Product State (MPS) representation. We also reviewed complexity classes to establish that `PostBPP ≠ PostBQP`, assuming the Polynomial Hierarchy (PH) does not collapse.
+* **Lecture Notes:**
+    * [Digitized Notes: Review of Quantum Many-Body Physics](./materials/Note_Review_of_Quantum_Complexity.pdf)
+
 
 ---
 
