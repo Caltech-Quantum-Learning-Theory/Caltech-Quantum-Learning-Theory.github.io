@@ -70,8 +70,7 @@ This course covers quantum learning theory, a contemporary field at the intersec
 
 #### **Lecture 3: 1D Simulation & Quantum Complexity Classes (Mon, Oct 6)**
 * **Summary:** We finished the classical simulation for sampling from 1D short-range entangled states and 1D shallow quantum neural networks using their Matrix Product State (MPS) representation. We also reviewed complexity classes to establish that `PostBPP ≠ PostBQP`, assuming the Polynomial Hierarchy (PH) does not collapse.
-* **Lecture Notes:**
-    * [Digitized Notes: Review of Quantum Many-Body Physics](./materials/Note_Review_of_Quantum_Complexity.pdf)
+* **Lecture Notes:** [Digitized Notes: Review of Quantum Many-Body Physics](./materials/Note_Review_of_Quantum_Complexity.pdf)
 
 
 ---
