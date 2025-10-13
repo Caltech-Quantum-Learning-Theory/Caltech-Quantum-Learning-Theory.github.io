@@ -71,7 +71,7 @@ This course covers quantum learning theory, a contemporary field at the intersec
 #### **Lecture 3: 1D Simulation & Complexity Classes (Mon, Oct 6)**
 * **Summary:** We finished the classical simulation for sampling from 1D short-range entangled states and 1D shallow quantum neural networks using their Matrix Product State (MPS) representation. We also reviewed key complexity classes to establish that `PostBPP ≠ PostBQP`, assuming the Polynomial Hierarchy (PH) does not collapse.
 * **Lecture Notes:**
-    * [Notes: Classical Simulation & Complexity Review](./materials/Note_Review_of_Quantum_Complexity.pdf)
+    * [Digitized Notes: Classical Simulation & Complexity Review](./materials/Note_Review_of_Quantum_Complexity.pdf)
     * These notes provide an **algebraic proof** for the classical simulation of sampling from a 1D MPS, which is an alternative to the graphical proof from class.
     * They also include discussions to build intuition for why the Polynomial Hierarchy is believed not to collapse, covering topics like **NP vs. coNP** and the containment of **coNP in P^NP**.
 
