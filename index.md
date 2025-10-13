@@ -68,10 +68,18 @@ This course covers quantum learning theory, a contemporary field at the intersec
 
 ### **Week 2**
 
-#### **Lecture 3: 1D Simulation & Quantum Complexity Classes (Mon, Oct 6)**
-* **Summary:** We finished the classical simulation for sampling from 1D short-range entangled states and 1D shallow quantum neural networks using their Matrix Product State (MPS) representation. We also reviewed complexity classes to establish that `PostBPP ≠ PostBQP`, assuming the Polynomial Hierarchy (PH) does not collapse.
-* **Lecture Notes:** [Digitized Notes: Review of Quantum Many-Body Physics](./materials/Note_Review_of_Quantum_Complexity.pdf)
+#### **Lecture 3: 1D Simulation & Complexity Classes (Mon, Oct 6)**
+* **Summary:** We finished the classical simulation for sampling from 1D short-range entangled states and 1D shallow quantum neural networks using their Matrix Product State (MPS) representation. We also reviewed key complexity classes to establish that `PostBPP ≠ PostBQP`, assuming the Polynomial Hierarchy (PH) does not collapse.
+* **Lecture Notes:**
+    * [Notes: Classical Simulation & Complexity Review](./materials/Note_Review_of_Quantum_Complexity.pdf)
+    * These notes provide an **algebraic proof** for the classical simulation of sampling from a 1D MPS, which is an alternative to the graphical proof from class.
+    * They also include discussions to build intuition for why the Polynomial Hierarchy is believed not to collapse, covering topics like **NP vs. coNP** and the containment of **coNP in P^NP**.
 
+#### **Lecture 4: Quantum Advantage in 2D & Intro to Tomography (Wed, Oct 8)**
+* **Summary:** We used the conjecture that the Polynomial Hierarchy (PH) does not collapse, which implied `PostBPP ≠ PostBQP`, to establish classical hardness in simulating 2D short-range entangled states and 2D shallow QNNs. This shows a surprising sharp transition from 1D to 2D and provides the complexity-theoretic foundation for quantum advantages in shallow QNNs. We then began our journey to develop efficient algorithms for learning and predicting properties of unknown quantum systems.
+* **Lecture Notes:**
+    * [Digitized Notes: Review of Quantum Many-Body Physics](./materials/Note_Review_of_Quantum_Complexity.pdf)
+    * [Digitized Notes: Learning and Predicting Properties of a Quantum State](./materials/Note_Learning_Predicting_States.pdf)
 
 ---
 
