@@ -65,6 +65,7 @@ This course covers quantum learning theory, a contemporary field at the intersec
         1.  Prove that any 1D short-range entangled state can be represented as a Matrix Product State (MPS).
         2.  Prove that simulating a Z-basis measurement on an MPS with a polynomial bond dimension is classically efficient.
 
+---
 
 ### **Week 2**
 
@@ -80,6 +81,24 @@ This course covers quantum learning theory, a contemporary field at the intersec
 * **Lecture Notes:**
     * [Digitized Notes: Review of Quantum Many-Body Physics](./materials/Note_Review_of_Quantum_Complexity.pdf)
     * [Digitized Notes: Learning and Predicting Properties of a Quantum State](./materials/Note_Learning_Predicting_States.pdf)
+
+---
+
+### **Week 4**
+
+#### **Lecture 5: Randomized Measurements & Weingarten Calculus (Mon, Oct 13)**
+* **Summary:** We introduced the randomized measurement scheme, defined Haar-random unitaries, and derived the famous Weingarten calculus using Schur-Weyl duality to analyze moments of Haar-random unitaries. This calculus is a powerful tool with broad applications, from randomized benchmarking to black hole physics.
+* **Lecture Notes:**
+    * [Digitized Notes: Learning and Predicting Properties of a Quantum State](./materials/Note_Learning_Predicting_States.pdf)
+
+#### **Lecture 6: Predicting Properties via Randomized Measurements (Wed, Oct 15)**
+* **Summary:** We built on Weingarten calculus to show how to predict many properties of an unknown quantum state from very few measurements. The protocol covered was the original classical shadow tomography based on random Clifford circuits.
+* **Lecture Notes:**
+    * [Digitized Notes: Learning and Predicting Properties of a Quantum State](./materials/Note_Learning_Predicting_States.pdf)
+* **Reading & Resources:**
+    * **Full Classical Shadow Formalism:** [Classical Shadows (Nature Physics)](./materials/Classical-Shadows-Nature-Physics.pdf)
+    * **Probability Review:** For those unfamiliar with concentration inequalities or median-of-means, you can review this short note: [Bonus Lecture: Concentration Inequalities and Median of Means](./materials/BonusLecture-MedianOfMeans.pdf)
+
 
 ---
 
