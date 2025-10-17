@@ -84,7 +84,7 @@ This course covers quantum learning theory, a contemporary field at the intersec
 
 ---
 
-### **Week 4**
+### **Week 3**
 
 #### **Lecture 5: Randomized Measurements & Weingarten Calculus (Mon, Oct 13)**
 * **Summary:** We introduced the randomized measurement scheme, defined Haar-random unitaries, and derived the famous Weingarten calculus using Schur-Weyl duality to analyze moments of Haar-random unitaries. This calculus is a powerful tool with broad applications, from randomized benchmarking to black hole physics.
@@ -108,7 +108,7 @@ There will be **five problem sets** for this course. The grade will be based on 
 
 #### Homework Due Dates:
 1.  **[HW 1](./materials/PSET_1_Caltech_Ph_220.pdf):** Friday, October 17th
-2.  **HW 2:** Friday, October 31st
+2.  **[HW 2](./materials/PSET_2_Caltech_Ph_220.pdf):** Friday, October 31st
 3.  **HW 3:** Friday, November 14th
 4.  **HW 4:** Friday, November 28th
 5.  **HW 5:** Friday, December 12th
