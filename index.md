@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Ph 220: Quantum Learning Theory (Fall 2025)
-
 **Class meetings:** Monday & Wednesday, 1:00pm-2:20pm in Hameetman Auditorium, Cahill Center for Astronomy and Astrophysics.
 
 ---
