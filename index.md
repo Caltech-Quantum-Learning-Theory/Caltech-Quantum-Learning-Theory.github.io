@@ -99,6 +99,32 @@ This course covers quantum learning theory, a contemporary field at the intersec
     * **Full Classical Shadow Formalism:** [Classical Shadows (Nature Physics)](./materials/Classical-Shadows-Nature-Physics.pdf)
     * **Probability Review:** For those unfamiliar with concentration inequalities or median-of-means, you can review this short note: [Bonus Lecture: Concentration Inequalities and Median of Means](./materials/BonusLecture-MedianOfMeans.pdf)
 
+---
+### **Week 4**
+
+#### **Lecture 7: Randomized Measurements & Quantum Data Analysis (Mon, Oct 20)**
+* **Summary:** We concluded our chapter on randomized measurements, covering efficient prediction in the low-measurement regime and sample-optimal tomography in the high-measurement regime. We also found that predicting certain observables (like Pauli) is exponentially hard with single-copy measurements, a limitation we'll overcome later with quantum data analysis. We then introduced quantum data analysis, showing how coherent, entangling measurements can predict properties while protecting the quantum state.
+* **Lecture Notes:**
+    * [Digitized Notes: Learning and Predicting Properties of a Quantum State](./materials/Note_Learning_Predicting_States.pdf)
+    * [Digitized Notes: Protecting Quantum Data](./materials/Note_Protecting_Quantum_Data.pdf)
+
+#### **Lecture 8: Gentle Measurement & Quantum Threshold Search (Wed, Oct 22)**
+* **Summary:** We continued developing our toolkit for protecting quantum data while using them. Building on Problem Set 1, we derived the powerful **Gentle Measurement Lemma** and the **Quantum Union Bound**. We concluded with an introduction to Quantum Threshold Search, a key tool for extracting information from quantum data with minimal disturbance.
+* **Lecture Notes:**
+    * [Digitized Notes: Protecting Quantum Data](./materials/Note_Protecting_Quantum_Data.pdf)
+
+---
+### **Week 5**
+
+#### **Lecture 9: Online Machine Learning (Mon, Oct 27)**
+* **Summary:** We focused on Online Machine Learning, starting with the classical "prediction with experts" problem. We derived the "Follow the Regularized Leader" (FTRL) algorithm, which led to the Multiplicative Weight Update (MWU) rule, and showed it achieves sublinear regret. We then generalized this entire framework to the quantum domain.
+* **Lecture Notes:**
+    * [Digitized Notes: Protecting Quantum Data](./materials/Note_Protecting_Quantum_Data.pdf)
+
+#### **Lecture 10: Full Shadow Tomography (Wed, Oct 29)**
+* **Summary:** We developed an advanced version of Quantum Threshold Search to check if an observable is "close to" or "far from" a value while protecting the data. By combining this with our online learning tools for quantum states, we built the **Full Shadow Tomography** protocol, which can predict any $M$ observables using only $O(n \log(M)^2)$ samples.
+* **Lecture Notes:**
+    * [Digitized Notes: Protecting Quantum Data](./materials/Note_Protecting_Quantum_Data.pdf)
 
 ---
 
@@ -109,6 +135,6 @@ There will be **five problem sets** for this course. The grade will be based on 
 #### Homework Due Dates:
 1.  **[HW 1](./materials/PSET_1_Caltech_Ph_220.pdf):** Friday, October 17th
 2.  **[HW 2](./materials/PSET_2_Caltech_Ph_220.pdf):** Friday, October 31st
-3.  **HW 3:** Friday, November 14th
+3.  **[HW 3](./materials/PSET_3_Caltech_Ph_220.pdf):** Friday, November 14th
 4.  **HW 4:** Friday, November 28th
 5.  **HW 5:** Friday, December 12th
