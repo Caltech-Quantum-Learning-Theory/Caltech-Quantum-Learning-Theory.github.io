@@ -122,7 +122,7 @@ This course covers quantum learning theory, a contemporary field at the intersec
     * [Digitized Notes: Protecting Quantum Data](./materials/Note_Protecting_Quantum_Data.pdf)
 
 #### **Lecture 10: Full Shadow Tomography (Wed, Oct 29)**
-* **Summary:** We developed an advanced version of Quantum Threshold Search to check if an observable is "close to" or "far from" a value while protecting the data. By combining this with our online learning tools for quantum states, we built the **Full Shadow Tomography** protocol, which can predict any $M$ observables using only $O(n \log(M)^2)$ samples.
+* **Summary:** We developed an advanced version of Quantum Threshold Search to check if an observable is "close to" or "far from" a value while protecting the data. By combining this with our online learning tools for quantum states, we built the **Full Shadow Tomography** protocol, which can predict any M observables using only n poly(log M) samples.
 * **Lecture Notes:**
     * [Digitized Notes: Protecting Quantum Data](./materials/Note_Protecting_Quantum_Data.pdf)
 
