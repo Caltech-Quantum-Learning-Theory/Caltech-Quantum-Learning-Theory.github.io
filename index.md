@@ -159,7 +159,7 @@ This course covers quantum learning theory, a contemporary field at the intersec
 * **Summary:** We tackled the fundamental question of learning hardness. We demonstrated the existence of **Pseudorandom States (PRS)**: simple quantum states that are indistinguishable from Haar-random states by any polynomial-time quantum algorithm.
 * **Lecture Materials:**
     * [Digitized Notes: Hardness of Learning and PRS](./materials/Note_PRS.pdf)
-    * *Update:* The notes have been expanded to include foundations of statistical distinguishability, trace distance analysis, and the complete derivation of PRS existence.
+    * The notes have been expanded to include foundations of statistical distinguishability, trace distance analysis, and the complete derivation of PRS existence.
 
 ---
 ### **Week 9**
