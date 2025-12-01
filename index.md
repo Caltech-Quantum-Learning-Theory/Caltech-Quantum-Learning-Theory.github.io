@@ -125,6 +125,52 @@ This course covers quantum learning theory, a contemporary field at the intersec
     * [Digitized Notes: Protecting Quantum Data](./materials/Note_Protecting_Quantum_Data.pdf)
 
 ---
+### **Week 6**
+
+#### **Lecture 11: Learning Quantum Neural Networks (Mon, Nov 3)**
+* **Summary:** We shifted focus to practical applications, specifically the difficulty of training QNNs. We examined failure mechanisms like barren plateaus, indistinguishability from random unitaries, and exponentially many bad local minima. We then introduced **parameterization by local inversion** as the missing ingredient for efficient learning.
+* **Lecture Materials:**
+    * [Slides: Learning QNNs](./materials/Slides-Learning-QNNs.pdf)
+    * [Digitized Notes: Learning QNNs and SRE States](./materials/Note_Learning_QNN_SRE.pdf)  
+
+#### **Lecture 12: Generative Quantum Advantage & SRE States (Wed, Nov 5)**
+* **Summary:** We explored the complete solution for learning QNNs, including "sewing" local inversions to reconstruct shallow quantum circuits and short-range entangled (SRE) states. We demonstrated applications in establishing **generative quantum advantage** and compressing deep physical dynamics into low-depth circuits.
+* **Lecture Materials:**
+    * [Slides: Generative Quantum Advantage](./materials/Slides-Generative-Quantum-Advantage.pdf)
+    * [Digitized Notes: Learning QNNs and SRE States](./materials/Note_Learning_QNN_SRE.pdf)
+
+---
+### **Week 7**
+
+#### **Lecture 13: Learning Noisy Quantum Devices (Mon, Nov 10)**
+* **Summary:** We explored the characterization of noisy devices, discussing the fundamental gauge freedom and the systematic approach of **Gate Set Tomography**. We also covered **noise twirling** to transform arbitrary channels into simple Pauli channels.
+* **Lecture Materials:**
+    * [Digitized Notes: Learning Noisy Quantum Device](./materials/Note_Learning_Noisy_Quantum_Device.pdf)
+
+#### **Lecture 14: Learning Many-Body Hamiltonians (Wed, Nov 12)**
+* **Summary:** We studied how to learn many-body Hamiltonians with **Heisenberg-limited scaling**. We developed the "reshaping" technique to simplify Hamiltonians into isolated islands of few-qubit Hamiltonians and combined this with quantum sensing protocols.
+* **Lecture Materials:**
+    * [Digitized Notes: Learning Many-Body Hamiltonians](./materials/Note_Learning_Many-Body_H.pdf)
+
+---
+### **Week 8**
+
+#### **Lecture 15 & 16: Hardness of Learning & Pseudorandom States (Mon, Nov 17 & Wed, Nov 19)**
+* **Summary:** We tackled the fundamental question of learning hardness. We demonstrated the existence of **Pseudorandom States (PRS)**: simple quantum states that are indistinguishable from Haar-random states by any polynomial-time quantum algorithm.
+* **Lecture Materials:**
+    * [Digitized Notes: Hardness of Learning and PRS](./materials/Note_PRS.pdf)
+    * *Update:* The notes have been expanded to include foundations of statistical distinguishability, trace distance analysis, and the complete derivation of PRS existence.
+
+---
+### **Week 9**
+
+#### **Lecture 17 & 18: Pseudorandom Unitaries (Mon, Nov 24 & Wed, Nov 26)**
+* **Summary:** We proved the existence of **Pseudorandom Unitaries (PRU)**, a problem that had remained open since 2017 and closed in 2024. The proof utilizes tools from random unitaries, post-quantum cryptography, and purification.
+* **Lecture Materials:**
+    * [Digitized Notes: Pseudorandom Unitaries](./materials/Note_PRU.pdf)
+    * *Update:* This file contains the full proof completed in Lecture 18.
+
+---
 
 ## Homeworks
 
@@ -134,5 +180,5 @@ There will be **five problem sets** for this course. The grade will be based on 
 1.  **[HW 1](./materials/PSET_1_Caltech_Ph_220.pdf):** Friday, October 17th
 2.  **[HW 2](./materials/PSET_2_Caltech_Ph_220.pdf):** Friday, October 31st
 3.  **[HW 3](./materials/PSET_3_Caltech_Ph_220.pdf):** Friday, November 14th
-4.  **HW 4:** Friday, November 28th
-5.  **HW 5:** Friday, December 12th
+4.  **[HW 4](./materials/PSET_4_Caltech_Ph_220.pdf):** Friday, November 28th
+5.  **[HW 5](./materials/PSET_5_Caltech_Ph_220.pdf):** Friday, December 12th
