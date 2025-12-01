@@ -168,7 +168,6 @@ This course covers quantum learning theory, a contemporary field at the intersec
 * **Summary:** We proved the existence of **Pseudorandom Unitaries (PRU)**, a problem that had remained open since 2017 and closed in 2024. The proof utilizes tools from random unitaries, post-quantum cryptography, and purification.
 * **Lecture Materials:**
     * [Digitized Notes: Pseudorandom Unitaries](./materials/Note_PRU.pdf)
-    * *Update:* This file contains the full proof completed in Lecture 18.
 
 ---
 
