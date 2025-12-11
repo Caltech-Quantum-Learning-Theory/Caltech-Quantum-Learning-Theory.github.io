@@ -175,12 +175,12 @@ This course covers quantum learning theory, a contemporary field at the intersec
 #### **Lecture 19: Quantum Advantage in Learning from Experiments (Mon, Dec 1)**
 * **Summary:** We established a fundamental limit on classical agents for learning physical systems. By modeling the memory state of a classical agent using a **Learning Tree**, we proved that learning a model to predict any Pauli observables requires exponentially many experiments. This result confirms that predicting observables is exponentially hard for classical agents, whereas quantum agents can solve this task very efficiently (as shown in PSET 2).
 * **Lecture Materials:**
-    * [Digitized Notes: Quantum Advantage in Learning from Experiment](./materials/Lecture_Note_10_Quantum_Advantage_in_Learning_from_Experiment.pdf)
+    * [Digitized Notes: Quantum Advantage in Learning from Experiment](./materials/Note_QAdvantage_in_Learning_from_Experiment.pdf)
 
 #### **Lecture 20: The Future of Quantum x AI (Wed, Dec 3)**
-* **Summary:** In our final lecture, we explored the frontiers of Quantum AI. We discussed **AI for Quantum Technology** (e.g., AlphaQubit for error correction), the potential for **Quantum Advantage in Classical ML** (sketching quantum oracles to bypass QRAM), and the **Physics of Learning**. We concluded with the long-term ambition of building quantum machines that can autonomously discover new facets of our universe.
+* **Summary:** In our final lecture, we explored the frontiers of Quantum x AI. We discussed **AI for Quantum Technology** (e.g., AlphaQubit for error correction), the potential for **Quantum Advantage in Classical ML** (sketching quantum oracles to bypass QRAM), and the **Physics of Learning**. We concluded with the long-term ambition of building quantum machines that can autonomously discover new facets of our universe.
 * **Lecture Materials:**
-    * [Slides: Lecture 20 - Course Conclusion](./materials/Slides_for_Ph220_Lecture_20.pdf)
+    * [Slides: Next Steps for Quantum x AI](./materials/Slides-Next-Steps.pdf)
 
 ---
 
