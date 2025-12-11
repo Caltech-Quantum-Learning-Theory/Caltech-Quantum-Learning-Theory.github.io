@@ -173,12 +173,12 @@ This course covers quantum learning theory, a contemporary field at the intersec
 ### **Week 10**
 
 #### **Lecture 19: Quantum Advantage in Learning from Experiments (Mon, Dec 1)**
-* **Summary:** We established a fundamental limit on classical agents for learning physical systems. By modeling the memory state of a classical agent using a **Learning Tree**, we proved that learning a model to predict any Pauli observables requires exponentially many experiments. This result confirms that predicting observables is exponentially hard for classical agents, whereas quantum agents can solve this task very efficiently (as shown in PSET 2).
+* **Summary:** We established a fundamental limit on classical agents for learning physical systems. We proved that a classical agent trying to learn a model that can predict any Pauli observables requires exponentially many experiments. In contrast, a quantum agent can solve this task very efficiently (as shown in PSET 2). Together, this develops the tool for proving exponential quantum advantage in learning from experiments.
 * **Lecture Materials:**
     * [Digitized Notes: Quantum Advantage in Learning from Experiment](./materials/Note_QAdvantage_in_Learning_from_Experiment.pdf)
 
 #### **Lecture 20: The Future of Quantum x AI (Wed, Dec 3)**
-* **Summary:** In our final lecture, we explored the frontiers of Quantum x AI. We discussed **AI for Quantum Technology** (e.g., AlphaQubit for error correction), the potential for **Quantum Advantage in Classical ML** (sketching quantum oracles to bypass QRAM), and the **Physics of Learning**. We concluded with the long-term ambition of building quantum machines that can autonomously discover new facets of our universe.
+* **Summary:** In our final lecture, we explored the frontiers of Quantum x AI. We discussed AI for Quantum Technology, the potential for Quantum Advantage in Classical ML, and the Physics of Learning. We concluded with the long-term ambition of building quantum machines that can autonomously discover new facets of our universe.
 * **Lecture Materials:**
     * [Slides: Next Steps for Quantum x AI](./materials/Slides-Next-Steps.pdf)
 
